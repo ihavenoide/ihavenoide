@@ -1,4 +1,4 @@
- Full Stack Web Development Graduate of App Academy. Junior Software Engineer.
+Hello! I'm James, a hard-working and dedicated coder who is eager for challenges and opportunities to create.
 
  Here are some of my projects:
  * [KnowVerse](https://knowverse.onrender.com/)
