@@ -1,4 +1,13 @@
-### Hi there 👋
+ Full Stack Web Development Graduate of App Academy. Junior Software Engineer.
+
+ Here are some of my projects:
+ * [KnowVerse](https://knowverse.onrender.com/)
+ * [Goaly](https://goaly.onrender.com/)
+
+
+### Reach me at 
+* [linkedin](https://www.linkedin.com/in/james-hernandez-76191623a/)
+* [wellfound](https://wellfound.com/u/james-hernandez-15)
 
 <!--
 **ihavenoide/ihavenoide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
